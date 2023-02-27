@@ -1,2 +1,0 @@
-# DELTA
-Delta_University
